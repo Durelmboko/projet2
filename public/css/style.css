@@ -1,0 +1,31 @@
+/*
+body{
+	padding: 50px 50px 50px 50px;
+}*/
+
+#h{
+	text-align: center;
+}
+#bouton{
+	margin-left: 400px;
+}
+#lg{
+	width: 500px;
+}
+#md{
+	width: 500px;
+}
+.jumbotron
+{
+	background-color: blueviolet;
+}
+.mb-3{
+	width: 600px;
+	margin-left: 200px;
+}
+#line{
+	margin-left: 250px;
+}
+#footet{
+	margin: 0px;
+}
